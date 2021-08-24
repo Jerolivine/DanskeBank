@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Core\DanskeBank.Domain.Core\DanskeBank.Domain.Core.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\DanskeBank.Mapper.csproj" />
+    <ProjectReference Include="..\Contract\DanskeBank.Application.Contract\DanskeBank.Application.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

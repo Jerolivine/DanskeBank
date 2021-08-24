@@ -1,0 +1,8 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\obj\Debug\netcoreapp3.1\DanskeBank.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\obj\Debug\netcoreapp3.1\DanskeBank.Application.Contract.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\obj\Debug\netcoreapp3.1\DanskeBank.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\obj\Debug\netcoreapp3.1\DanskeBank.Application.Contract.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Application\Contract\DanskeBank.Application.Contract\obj\Debug\netcoreapp3.1\DanskeBank.Application.Contract.pdb

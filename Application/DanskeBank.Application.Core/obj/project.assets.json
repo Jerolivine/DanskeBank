@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DanskeBank.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DanskeBank.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanskeBank.Application.Contract.dll": {}
+        }
+      },
+      "DanskeBank.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DanskeBank.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanskeBank.Domain.Core.dll": {}
+        }
+      },
+      "DanskeBank.Mapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DanskeBank.Mapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DanskeBank.Mapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DanskeBank.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Contract/DanskeBank.Application.Contract/DanskeBank.Application.Contract.csproj",
+      "msbuildProject": "../Contract/DanskeBank.Application.Contract/DanskeBank.Application.Contract.csproj"
+    },
+    "DanskeBank.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/Core/DanskeBank.Domain.Core/DanskeBank.Domain.Core.csproj",
+      "msbuildProject": "../../Domain/Core/DanskeBank.Domain.Core/DanskeBank.Domain.Core.csproj"
+    },
+    "DanskeBank.Mapper/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/Transversal/Mapper/DanskeBank.Mapper/DanskeBank.Mapper.csproj",
+      "msbuildProject": "../../Infrastructure/Transversal/Mapper/DanskeBank.Mapper/DanskeBank.Mapper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DanskeBank.Application.Contract >= 1.0.0",
+      "DanskeBank.Domain.Core >= 1.0.0",
+      "DanskeBank.Mapper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\github\\Danske\\DanskeBank\\Application\\DanskeBank.Application.Core\\DanskeBank.Application.Core.csproj",
+      "projectName": "DanskeBank.Application.Core",
+      "projectPath": "C:\\github\\Danske\\DanskeBank\\Application\\DanskeBank.Application.Core\\DanskeBank.Application.Core.csproj",
+      "packagesPath": "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\",
+      "outputPath": "C:\\github\\Danske\\DanskeBank\\Application\\DanskeBank.Application.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Arda Şentunalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/cbaki/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\github\\Danske\\DanskeBank\\Application\\Contract\\DanskeBank.Application.Contract\\DanskeBank.Application.Contract.csproj": {
+              "projectPath": "C:\\github\\Danske\\DanskeBank\\Application\\Contract\\DanskeBank.Application.Contract\\DanskeBank.Application.Contract.csproj"
+            },
+            "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj": {
+              "projectPath": "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj"
+            },
+            "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Mapper\\DanskeBank.Mapper\\DanskeBank.Mapper.csproj": {
+              "projectPath": "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Mapper\\DanskeBank.Mapper\\DanskeBank.Mapper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

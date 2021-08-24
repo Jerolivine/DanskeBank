@@ -1,0 +1,12 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\bin\Debug\netcoreapp3.1\DanskeBank.Domain.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\bin\Debug\netcoreapp3.1\DanskeBank.Domain.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\bin\Debug\netcoreapp3.1\DanskeBank.Domain.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.csprojAssemblyReference.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.csproj.CopyComplete
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Domain\DanskeBank.Domain\obj\Debug\netcoreapp3.1\DanskeBank.Domain.pdb

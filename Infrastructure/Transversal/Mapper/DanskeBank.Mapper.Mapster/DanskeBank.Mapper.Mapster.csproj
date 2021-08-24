@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Mapster" Version="7.2.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.17" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\..\..\Application\Contract\DanskeBank.Application.Contract\DanskeBank.Application.Contract.csproj" />
+	  <ProjectReference Include="..\..\..\..\Domain\DanskeBank.Domain\DanskeBank.Domain.csproj" />
+	  <ProjectReference Include="..\..\..\Constants\DanskeBank.Constants\DanskeBank.Constants.csproj" />
+	  <ProjectReference Include="..\DanskeBank.Mapper\DanskeBank.Mapper.csproj" />
+	</ItemGroup>
+
+</Project>

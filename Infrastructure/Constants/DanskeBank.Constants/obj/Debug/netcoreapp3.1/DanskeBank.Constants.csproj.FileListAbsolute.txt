@@ -1,0 +1,8 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\bin\Debug\netcoreapp3.1\DanskeBank.Constants.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\bin\Debug\netcoreapp3.1\DanskeBank.Constants.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\bin\Debug\netcoreapp3.1\DanskeBank.Constants.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\obj\Debug\netcoreapp3.1\DanskeBank.Constants.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\obj\Debug\netcoreapp3.1\DanskeBank.Constants.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\obj\Debug\netcoreapp3.1\DanskeBank.Constants.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\obj\Debug\netcoreapp3.1\DanskeBank.Constants.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Constants\DanskeBank.Constants\obj\Debug\netcoreapp3.1\DanskeBank.Constants.pdb

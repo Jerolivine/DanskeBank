@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DanskeBank.Application.Core/1.0.0": {
+        "dependencies": {
+          "DanskeBank.Application.Contract": "1.0.0",
+          "DanskeBank.Domain.Core": "1.0.0",
+          "DanskeBank.Mapper": "1.0.0"
+        },
+        "runtime": {
+          "DanskeBank.Application.Core.dll": {}
+        }
+      },
+      "DanskeBank.Application.Contract/1.0.0": {
+        "runtime": {
+          "DanskeBank.Application.Contract.dll": {}
+        }
+      },
+      "DanskeBank.Domain.Core/1.0.0": {
+        "runtime": {
+          "DanskeBank.Domain.Core.dll": {}
+        }
+      },
+      "DanskeBank.Mapper/1.0.0": {
+        "runtime": {
+          "DanskeBank.Mapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DanskeBank.Application.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DanskeBank.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DanskeBank.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DanskeBank.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

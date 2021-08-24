@@ -1,0 +1,39 @@
+networks:
+  danskebank-network:
+    driver: bridge
+services:
+  danskebank-mssql-server-linux:
+    environment:
+      ACCEPT_EULA: '"Y"'
+      SA_PASSWORD: My_pass$$
+    image: microsoft/mssql-server-linux:latest
+    networks:
+      danskebank-network:
+        aliases:
+        - db01.danskebank.com
+    ports:
+    - published: 1433
+      target: 1433
+    volumes:
+    - C:\Users\Arda Ìentunal²\Desktop\Danske\DanskeBank\danskebankdata\mssql:/var/opt/mssql/data:rw
+  danskebank.api:
+    build:
+      context: C:\Users\Arda Ìentunal²\Desktop\Danske\DanskeBank
+      dockerfile: API/DanskeBank.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: danskebankapi
+    networks:
+      danskebank-network:
+        aliases:
+        - api01.danskebank.com
+    ports:
+    - published: 8000
+      target: 80
+    - published: 8443
+      target: 443
+    volumes:
+    - C:\Users\Arda Ìentunal²\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Arda Ìentunal²\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

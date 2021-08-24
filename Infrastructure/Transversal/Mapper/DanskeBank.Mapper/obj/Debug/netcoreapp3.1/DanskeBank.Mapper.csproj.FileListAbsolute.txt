@@ -1,0 +1,9 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\Infrastructure\Transversal\Mapper\DanskeBank.Mapper\obj\Debug\netcoreapp3.1\DanskeBank.Mapper.csprojAssemblyReference.cache

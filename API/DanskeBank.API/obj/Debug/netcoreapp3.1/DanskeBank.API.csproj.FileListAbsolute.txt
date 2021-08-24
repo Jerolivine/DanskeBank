@@ -1,0 +1,212 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.StaticWebAssets.xml
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.exe
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.runtimeconfig.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.runtimeconfig.dev.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Constants.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Infrastructure.EntityFramework.Core.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.Mapster.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.Mapster.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.Core.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Core.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Constants.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Infrastructure.EntityFramework.Core.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csprojAssemblyReference.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.RazorTargetAssemblyInfo.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csproj.CopyComplete
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\staticwebassets\DanskeBank.API.StaticWebAssets.Manifest.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\staticwebassets\DanskeBank.API.StaticWebAssets.xml
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.genruntimeconfig.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.StaticWebAssets.xml
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.exe
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.deps.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.runtimeconfig.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.runtimeconfig.dev.json
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Constants.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Infrastructure.EntityFramework.Core.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.Mapster.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.Mapster.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.API.Core.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Contract.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Application.Core.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Constants.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Domain.Core.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Infrastructure.EntityFramework.Core.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.Mapper.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csprojAssemblyReference.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.AssemblyInfoInputs.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.AssemblyInfo.cs
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csproj.CoreCompileInputs.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.MvcApplicationPartsAssemblyInfo.cs
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.MvcApplicationPartsAssemblyInfo.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.RazorTargetAssemblyInfo.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.csproj.CopyComplete
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\staticwebassets\DanskeBank.API.StaticWebAssets.Manifest.cache
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\staticwebassets\DanskeBank.API.StaticWebAssets.xml
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.dll
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.pdb
+C:\github\Danske\DanskeBank\API\DanskeBank.API\obj\Debug\netcoreapp3.1\DanskeBank.API.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.deps.json
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\bin\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.pdb
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.AssemblyInfo.cs
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.dll
+C:\Users\Arda Şentunalı\Desktop\Danske\DanskeBank\UnitOfWork\DanskeBank.UnitOfWork\obj\Debug\netcoreapp3.1\DanskeBank.UnitOfWork.pdb

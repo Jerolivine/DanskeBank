@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Persistance\\DanskeBank.Infrastructure.EntityFramework.Core\\DanskeBank.Infrastructure.EntityFramework.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj",
+        "projectName": "DanskeBank.Domain.Core",
+        "projectPath": "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Şentunalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/cbaki/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\DanskeBank.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\DanskeBank.Domain.csproj",
+        "projectName": "DanskeBank.Domain",
+        "projectPath": "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\DanskeBank.Domain.csproj",
+        "packagesPath": "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Şentunalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/cbaki/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj": {
+                "projectPath": "C:\\github\\Danske\\DanskeBank\\Domain\\Core\\DanskeBank.Domain.Core\\DanskeBank.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Persistance\\DanskeBank.Infrastructure.EntityFramework.Core\\DanskeBank.Infrastructure.EntityFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Persistance\\DanskeBank.Infrastructure.EntityFramework.Core\\DanskeBank.Infrastructure.EntityFramework.Core.csproj",
+        "projectName": "DanskeBank.Infrastructure.EntityFramework.Core",
+        "projectPath": "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Persistance\\DanskeBank.Infrastructure.EntityFramework.Core\\DanskeBank.Infrastructure.EntityFramework.Core.csproj",
+        "packagesPath": "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Danske\\DanskeBank\\Infrastructure\\Transversal\\Persistance\\DanskeBank.Infrastructure.EntityFramework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Şentunalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/cbaki/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\DanskeBank.Domain.csproj": {
+                "projectPath": "C:\\github\\Danske\\DanskeBank\\Domain\\DanskeBank.Domain\\DanskeBank.Domain.csproj"
+              },
+              "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\DanskeBank.UnitOfWork.csproj": {
+                "projectPath": "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\DanskeBank.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\DanskeBank.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\DanskeBank.UnitOfWork.csproj",
+        "projectName": "DanskeBank.UnitOfWork",
+        "projectPath": "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\DanskeBank.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\Arda Şentunalı\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Danske\\DanskeBank\\UnitOfWork\\DanskeBank.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Şentunalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/cbaki/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
