@@ -2,7 +2,7 @@
 
 To migrate database
 
-1) set startup project as PaketTaxi.API
+1) set startup project as DanskeBank.API
 2) Select PaketTaxi.Infrastructure.EntityFramework.Core as selected library before you run add-database and update-database migration codes
 3) remove the comment at the function named OnConfiguring in EFCoreDbContext class
 
